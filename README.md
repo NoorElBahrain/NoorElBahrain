@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noor</h1>
 <h3 align="center">A believer of "it is never too late to learn something new"</h3>
 
-- 📜 I'm planning on using this repo to story projects I work on as a hobby in my spare time.
+- 📜 I'm planning on using this repo to store projects I work on as a hobby during my spare time.
 
 - 🔭 I’m currently working on **a hugo static site generator website.**
 
