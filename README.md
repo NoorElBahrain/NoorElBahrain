@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noor</h1>
 <h3 align="center">A believer of "it is never too late to learn something new"</h3>
 
+- 📜 I'm will use this account to store projects I work on (as a hobby) during my spare time.
+
 - 🔭 I’m currently working on **a hugo website**
 
 - 🌱 I’m currently learning **python**
