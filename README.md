@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📝 My infrequently updated blog **https://www.noorelbahrain.me/**
+- 📝 My infrequently updated blog/website **[noorelbahrain.me](https://www.noorelbahrain.me/)**
 
 - 📫 How to reach me **noordevmail@gmail.com**
 
