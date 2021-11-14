@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **python**
 
+- 📝 My infrequently updated blog **https://www.noorelbahrain.me/**
+
 - 📫 How to reach me **noordevmail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
