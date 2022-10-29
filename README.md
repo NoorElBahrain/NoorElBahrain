@@ -3,8 +3,6 @@
 
 - 📜 I'm will use this account to store projects I work on (as a hobby) during my spare time.
 
-- 🔭 I’m currently working on **a hugo website**
-
 - 🌱 I’m currently learning **python**
 
 - 📝 My infrequently updated blog/website **[noorelbahrain.me](https://www.noorelbahrain.me/)**
