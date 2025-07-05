@@ -10,8 +10,5 @@
 
 - 📫 How to reach me **noordevmail@gmail.com**
 
-
-<h3 align="left">Languages and Tools:</h3>
-
 ### Languages and Tools:
 ![PHP](https://img.shields.io/badge/PHP-%23007ACC?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23007ACC?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23007ACC?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23007ACC?style=for-the-badge&logo=docker&logoColor=white) 
