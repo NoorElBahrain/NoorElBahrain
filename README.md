@@ -9,19 +9,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<!-- 👨‍💻 Coding GIF (right aligned) -->
+<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
-
-###
+### Languages and Tools:
+![PHP](https://img.shields.io/badge/PHP-%23007ACC?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23007ACC?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23007ACC?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23007ACC?style=for-the-badge&logo=docker&logoColor=white) 
